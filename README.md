@@ -35,6 +35,8 @@ Security researchers who query internet-wide scan data.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-search` | A first hosts search and its output |
